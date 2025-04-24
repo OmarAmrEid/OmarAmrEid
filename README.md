@@ -6,15 +6,9 @@
 </h3>
 
 <div align="center"> 
-  <a href="mailto:kareemessam.me@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/kareem-essam-b48a56197/" target="_blank">
+  <a href="www.linkedin.com/in/omar-amr-eid-07a55220a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://twitter.com/KareemMenawi" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-</a>
   </a>
 </div>
 
@@ -23,8 +17,8 @@
 <h3 align="left">Tech Stack:</h3>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=kotlin,java,html,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,firebase,mongodb,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=kotlin,java,html,css,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=python,javascript" /><br>
 </div>
 <br/><br/>
 <p align="center">
