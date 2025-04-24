@@ -24,6 +24,3 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=OmarAmrEid&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=ffffff" alt="OmarAmrEid" />
 </p>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=OmarAmrEid&theme=dark" alt="OmarAmrEid" />
-</p>
