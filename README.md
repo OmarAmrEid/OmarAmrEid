@@ -1,7 +1,37 @@
-<h1 align="center">Hi 👋, I'm OmarAmrEid</h1>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2500&lines=Hi+There!+👋;+I'm+Omar+Amr+Eid!;" />
+</h1>
+
+<h3 align="center">An enthusiastic Android developer in training, I got my high school degree from STEM Ismailia School. Now honing my skills at the Faculty of Computers and Informatics, Suez Canal University, I'm driven by a love for coding and creating some NATIVE apps :) ;
+</h3>
+
+<div align="center"> 
+  <a href="mailto:kareemessam.me@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/kareem-essam-b48a56197/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://twitter.com/KareemMenawi" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+</a>
+  </a>
+</div>
+
+<br/><br/>
+
+<h3 align="left">Tech Stack:</h3>
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=kotlin,java,html,css,vscode,github,figma,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,firebase,mongodb,mysql" /><br>
+</div>
+<br/><br/>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kareemessam09&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=ffffff" alt="kareemessam09" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kareemessam09&theme=dark" alt="kareemessam09" />
+</p>
