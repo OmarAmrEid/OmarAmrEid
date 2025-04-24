@@ -4,7 +4,7 @@ img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.sa
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2500&lines=Hi+There!+👋;+I'm+Omar+Amr+Eid!;" />
 </h1>
 
-<h3 align="center">An enthusiastic Android developer in training, I got my high school degree from STEM Ismailia School. Now honing my skills at the Faculty of Computers and Informatics, Suez Canal University, I'm driven by a love for coding and creating some NATIVE apps :) ;
+<h3 align="center">An enthusiastic Android developer in training, I'm honing my skills at the Faculty of Computers and Informatics, Arab Open Univirsty, I'm driven by a love for coding and creating some FLUTTER apps :) ;
 </h3>
 
 <div align="center"> 
